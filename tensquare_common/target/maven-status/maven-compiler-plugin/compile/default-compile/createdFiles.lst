@@ -1,0 +1,7 @@
+com\chunlin\common\entity\Result.class
+com\chunlin\common\service\impl\BaseServiceImpl.class
+com\chunlin\common\entity\StatusCode.class
+com\chunlin\common\util\BaseSpecification.class
+com\chunlin\common\entity\PageResult.class
+com\chunlin\common\service\BaseService.class
+com\chunlin\common\util\IdWorker.class
